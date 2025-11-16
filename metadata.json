@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini Maps Explorer",
+  "description": "Explore places and get real-time Google Maps data using Gemini's Maps Grounding feature. Ask questions about restaurants, landmarks, or directions, and get relevant information with external links.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
